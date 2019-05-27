@@ -1,0 +1,25 @@
+body {
+  font-family: "Arvo", serif;
+}
+.sectionheight {
+  min-height: 70vh;
+}
+.width {
+  width: 100px;
+  height: 1vh;
+  margin: auto;
+}
+.about-picture {
+  background: url(../img/photo-1522165078649-823cf4dbaf46.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.height-80 {
+  min-height: 100vh;
+}
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
